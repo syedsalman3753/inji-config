@@ -1,3 +1,6 @@
+	
+Response body
+Download
 {
   "assertionMethod": [
     "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0"
@@ -6,7 +9,7 @@
   "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkoYBMjeVsKCec5ve7MuHPe5Q5tKENXKL19nUFG4EFnBbc",
+      "publicKeyMultibase": "z6Mkr3bQCdceRr1R4oKt9n1RCJNrQGqr5JUWicj29L35rqa6",
       "controller": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
       "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0",
       "type": "Ed25519VerificationKey2020",

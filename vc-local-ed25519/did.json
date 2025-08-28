@@ -6,7 +6,7 @@
   "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkikUqXDbkpVVB7d1ewExe4jZ2nYTBgAZhy943YitSA5jv",
+      "publicKeyMultibase": "z6Mkr3bQCdceRr1R4oKt9n1RCJNrQGqr5JUWicj29L35rqa6",
       "controller": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519",
       "id": "did:web:syedsalman3753.github.io:inji-config:vc-local-ed25519#key-0",
       "type": "Ed25519VerificationKey2020",
